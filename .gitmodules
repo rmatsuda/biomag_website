@@ -1,0 +1,3 @@
+[submodule "educenter-hugo"]
+	path = educenter-hugo
+	url = https://github.com/themefisher/educenter-hugo
